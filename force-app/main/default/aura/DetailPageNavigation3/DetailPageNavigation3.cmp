@@ -1,0 +1,4 @@
+<aura:component implements="force:lightningQuickAction,lightning:availableForFlowActions">
+  <aura:attribute name="AccountIdVar" type="String" />
+    
+</aura:component>
